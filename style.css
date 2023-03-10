@@ -735,6 +735,9 @@ p{
         font-size: 0.75rem;
         padding: 0 1rem;
     }
+    .businessSection::after{
+        display: none;
+    }
 }
 @media only screen and (min-width:  1380px) {
     .gm1::before{
