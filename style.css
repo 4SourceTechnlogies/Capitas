@@ -325,7 +325,7 @@
         opacity: 0.65;
     }
     .portfolioImg.active  img{
-        transform: scale(1.15);
+        transform: scale(1.125);
         transform-origin: bottom;
         opacity: 1;
         box-shadow: 2.5px 2.5px 5px 5px rgba(0, 0, 0, 0.5);
@@ -347,7 +347,7 @@
         z-index: 50;
         left: 50%;
         top: 50%;
-        transform: translate(-50%, -57%);
+        transform: translate(-50%, -55%);
     }
     .portfolioImg.active .whiteBorder{
         visibility: visible;

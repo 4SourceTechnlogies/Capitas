@@ -12,6 +12,7 @@ portImg.forEach((pImg) =>
     if (this.classList.contains("active")){
         this.classList.remove('active')
     }
+    // portImg[1].classList.add('active');
   })
 );
 
