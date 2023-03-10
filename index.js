@@ -1,7 +1,7 @@
 var portImg = document.querySelectorAll('.portfolioImg');
 portImg.forEach((pImg)=> pImg.addEventListener('mouseenter', function(){
     
-    for (var i =0; i <= portImg.length; i++){
+    for (var i = 0; i <= portImg.length; i++){
         (portImg[i]).classList.remove('active');
         this.classList.add("active");
     }
@@ -15,6 +15,8 @@ portImg.forEach((pImg) =>
     // portImg[1].classList.add('active');
   })
 );
+
+
 
 
  

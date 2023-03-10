@@ -713,6 +713,12 @@
     .portfolioRow{
         gap: 2rem;
     }
+    .portfolioImg.active img{
+        transform: scale(1);
+    }
+    .portfolioImg.active .whiteBorder{
+        visibility: hidden;
+    }
     .testiBG{
         display: none;
     }
