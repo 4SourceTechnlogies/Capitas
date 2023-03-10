@@ -542,6 +542,7 @@ p{
             -webkit-background-clip: text;
             background-clip: text;
             transition: .75s;
+        font-family: 'open sans';
     }
     .links a:hover{
         color: transparent;
