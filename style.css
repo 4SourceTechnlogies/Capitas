@@ -529,7 +529,7 @@ p{
         margin-inline: 1rem;
         align-items: center;
         gap: 0.5rem;
-        transition; 0.2s ease;
+        transition: 0.2s ease;
     }
     .links{
         padding: 0 4rem;
