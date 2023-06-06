@@ -342,6 +342,9 @@
     .portfolioImg.active::after{
         opacity: 0;
     }
+    .portfolioImg.active::after{
+        transform: scale(1.125);
+    }
     .portfolioImg{
         position: relative;
     }
